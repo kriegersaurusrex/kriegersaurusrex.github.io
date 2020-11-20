@@ -2,9 +2,6 @@
 
 ---
 
-### Category Name 1 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 For the recent 2020 election cycle, we had the day off at Lambda School, and I was glued to watching the votes come in hour by hour whilst comparing my personal predicted map from 538ToWin against the actual election results. My friends and I had a watch party where the 2016 election was heavily predicted for Hillary Clinton to win (insert HuffPo graphic here), and Nate Silver of the infamous news website FiveThirtyEight was being criticized on all fronts for only giving Clinton a 78% chance to win the election. Nate Silver was of national recognition for having applied statistical analysis techniques to the field of sabermetrics, and applying similar methods to political races using recency and poll grading techniques. 
 
 <img src="images/huffpo.png?raw=true"/>
