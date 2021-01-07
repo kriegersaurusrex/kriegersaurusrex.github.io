@@ -1,4 +1,4 @@
-## My DS22 Project: How Far Off Were the 2020 Polls? 
+## Can we beat a FastAI model in classification accuracy, by using a RandomForestClassifier?
 
 Can we beat a FastAI model in classification accuracy, by using a RandomForestClassifier?
 
